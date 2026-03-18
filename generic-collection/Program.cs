@@ -34,7 +34,6 @@ else
     Console.WriteLine("Khong tim thay sinh vien!");
 }
 
-// In lại danh sách
 Console.WriteLine("\nDanh sach sinh vien con lai:");
 foreach (var sv in students)
 {
